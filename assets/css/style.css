@@ -1,0 +1,49 @@
+/* Style the header */
+header {
+  background-color: #f2f2f2; /* Set the background color */
+  padding: 20px; /* Add padding */
+  text-align: center; /* Center-align the content */
+}
+
+/* Style the developer's name */
+header h1 {
+  margin-bottom: 10px; /* Add some space below the name */
+}
+
+/* Style the navigation */
+nav {
+  background-color: #333; /* Set the background color */
+  overflow: hidden;
+}
+
+/* Style the links inside the navbar */
+nav a {
+  float: right; /* Float the links to the right */
+  display: block; /* Display the links as block elements */
+  color: #f2f2f2; /* Set the text color */
+  text-align: center; /* Center-align the text */
+  padding: 14px 20px; /* Add padding to the links */
+  text-decoration: none; /* Remove the underline from the links */
+}
+
+/* Change the color of the links on hover */
+nav a:hover {
+  background-color: #ddd; /* Set the background color on hover */
+  color: black; /* Change the text color on hover */
+}
+
+/* Style the sections */
+section {
+  padding: 50px; /* Add padding to create space around the content */
+  margin: 20px 0; /* Add margin to separate the sections */
+  background-color: #f9f9f9; /* Set a light background color for the sections */
+  border: 1px solid #ccc; /* Add a border to visually separate the sections */
+}
+
+/* Style the footer */
+footer {
+  background-color: #333; /* Set the background color */
+  color: #f2f2f2; /* Set the text color */
+  padding: 20px; /* Add padding */
+  text-align: center; /* Center-align the content */
+}
