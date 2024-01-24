@@ -47,3 +47,8 @@ footer {
   padding: 20px; /* Add padding */
   text-align: center; /* Center-align the content */
 }
+
+img {
+    max-width: 100%;
+    height: auto;
+}
