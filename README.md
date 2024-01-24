@@ -6,8 +6,4 @@ This webpage is my portfolio. I made it to get practice with my css abilities. T
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
-
-![alt text](assets/images/screenshot.png)
+This project is used as a place to find out about me and all my projects. To use the project you will just scroll through the webpage and click on the links. The links on the navbar will quickly take you to whichever section you'd like to go to. The links under the applications section will take you to the webpages for the respective application. At the bottom you'll find the contact section. This is where you would be able to find information about how to contact me.
